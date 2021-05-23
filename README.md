@@ -1,2 +1,2 @@
 # Dice-Roller
-Dice Roller Program in .Net using Visual Studio 2017
+Dice Roller Program in Visual Basic using Visual Studio 2017
